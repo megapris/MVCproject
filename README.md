@@ -1,6 +1,6 @@
-## Getting Started
+## What you need to run the code!
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Download this [extension](www.oracle.com/technetwork/java/tablelayout.jar) and save it in the 'lib' folder
 
 ## Folder Structure
 
